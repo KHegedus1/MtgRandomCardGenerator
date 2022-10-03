@@ -1,0 +1,11 @@
+#mainWrap{
+    background-color:black; 
+    width: 320px;
+    height: 370px;
+    border-radius: 1px; 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
