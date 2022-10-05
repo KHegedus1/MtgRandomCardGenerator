@@ -10,11 +10,14 @@
     transform: translate(-50%, -50%);
 }
 #card{
-    background-color: black;
+    background-color: black; /* test boja,kasnije ide js */
     width:  480px;
     height: 600px;
     border-radius: 7px;
     position:fixed;
     margin-left: 60px;
     margin-top:  60px;
+}
+#nextCard{
+    
 }
