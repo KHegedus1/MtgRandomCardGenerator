@@ -4,6 +4,8 @@ function App() {
   return (
     <>
     <div id ="mainWrap">
+    <div id="card">
+    </div>
     </div>
     </>
   );
