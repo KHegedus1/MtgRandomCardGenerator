@@ -3,6 +3,8 @@ function App() {
   //js kod
   return (
     <>
+    <div id ="mainWrap">
+    </div>
     </>
   );
 }
